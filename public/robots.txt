@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://wayfarer-travel.netlify.app/sitemap.xml
+
